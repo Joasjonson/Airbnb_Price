@@ -17,6 +17,8 @@ Para acessar a documentação detalhada dos dados, incluindo o dicionário dos d
 
 [Airbnb](http://insideairbnb.com/explore/)
 
+[Referencia do Kaggle](https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro)
+
 [Dicionário de Dados](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596)
 
 
@@ -52,6 +54,8 @@ Para acessar a documentação detalhada dos dados, incluindo o dicionário dos d
 Este projeto visa criar uma ferramenta útil e eficaz para auxiliar novos proprietários que desejam alugar seus imóveis pela primeira vez a chegar a um preço padrão de mercado. O projeto está em fase final de acabamento, e aprimoramentos contínuos estão sendo feitos para aprimorar a precisão e a usabilidade da ferramenta.
 
 **Observação**: O projeto pode ser expandido e aprimorado no futuro, adicionando mais recursos, usando outras fontes de dados ou implementando técnicas avançadas de machine learning, dependendo dos resultados iniciais e das necessidades específicas do público-alvo.
+
+
 
 
 
